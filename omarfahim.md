@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Omar Fahim
+- 👀 I’m interested in Programming, Graphics Designing, Robotics, Learning new Things
+- 🌱 I’m currently learning Data Structure & Flutter
+- 💞️ I’m looking to collaborate on a Software Developing Company
+- 📫 reach me at :omarfahimofficial@gmail.com :+8801839865200
